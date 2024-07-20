@@ -1,0 +1,11 @@
+/* Style the anchor tag to look like a button */
+a.watch-button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none; /* Remove underline from link */
+  display: block; /* Make the element fill the available space on its line */
+  margin: 0 auto; /* Center the button horizontally */
+  border: none; /* Remove default button border */
+}
